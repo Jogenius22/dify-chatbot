@@ -8,7 +8,7 @@ const translation = {
     newChat: 'New chat',
     newChatDefaultName: 'New conversation',
     openingStatementTitle: 'Opening statement',
-    powerBy: '(Powered by-test)',
+    powerBy: 'Sleepi Chatbot',
     prompt: 'Prompt',
     privatePromptConfigTitle: 'Conversation settings',
     publicPromptConfigTitle: 'Initial Prompt',
