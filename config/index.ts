@@ -4,14 +4,14 @@ export const API_KEY = `${process.env.API_KEY}`
 export const API_URL = `${process.env.API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
-  description: '',
-  copyright: '',
-  privacy_policy: '',
-  default_language: 'zh-Hans',
+  description: 'Bot Description',
+  copyright: 'Copyright',
+  privacy_policy: 'Privacy Policy',
+  default_language: 'en',
 }
 
 export const isShowPrompt = false
-export const promptTemplate = 'I want you to act as a javascript console.'
+export const promptTemplate = 'You are an AI assistant.'
 
 export const API_PREFIX = '/api'
 
